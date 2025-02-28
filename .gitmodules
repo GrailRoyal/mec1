@@ -1,3 +1,6 @@
 [submodule "temp-mode-test/modules/submodule-repo"]
 	path = temp-mode-test/modules/submodule-repo
 	url = https://github.com/GrailRoyal/Stage-one
+[submodule "temp-mode-test/modules/submodule-repo1"]
+	path = temp-mode-test/modules/submodule-repo1
+	url = https://github.com/GrailRoyal/fastapi-book-project.git
